@@ -1,6 +1,8 @@
 # Unity-Game
 Simple Obstacle Platform Unity game created with C#. 
 
+![unity-gif](UnityGame.gif)
+
 Note: This game uses Unity version 2018.3.2 and can be downloaded here: https://unity3d.com/get-unity/download/archive
 
 To run:
